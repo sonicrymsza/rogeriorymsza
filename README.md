@@ -25,6 +25,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonicrymsza&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
+<br>
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/rogerio-rymsza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
   <a href="https://youtube.com/@sonicrymsza" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>&nbsp;
